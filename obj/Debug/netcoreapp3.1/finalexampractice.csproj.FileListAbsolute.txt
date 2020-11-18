@@ -1,0 +1,11 @@
+C:\Users\jslucas\source\repos\finalexampractice\obj\Debug\netcoreapp3.1\finalexampractice.csprojAssemblyReference.cache
+C:\Users\jslucas\source\repos\finalexampractice\obj\Debug\netcoreapp3.1\finalexampractice.AssemblyInfoInputs.cache
+C:\Users\jslucas\source\repos\finalexampractice\obj\Debug\netcoreapp3.1\finalexampractice.AssemblyInfo.cs
+C:\Users\jslucas\source\repos\finalexampractice\bin\Debug\netcoreapp3.1\finalexampractice.exe
+C:\Users\jslucas\source\repos\finalexampractice\bin\Debug\netcoreapp3.1\finalexampractice.deps.json
+C:\Users\jslucas\source\repos\finalexampractice\bin\Debug\netcoreapp3.1\finalexampractice.runtimeconfig.json
+C:\Users\jslucas\source\repos\finalexampractice\bin\Debug\netcoreapp3.1\finalexampractice.runtimeconfig.dev.json
+C:\Users\jslucas\source\repos\finalexampractice\bin\Debug\netcoreapp3.1\finalexampractice.dll
+C:\Users\jslucas\source\repos\finalexampractice\bin\Debug\netcoreapp3.1\finalexampractice.pdb
+C:\Users\jslucas\source\repos\finalexampractice\obj\Debug\netcoreapp3.1\finalexampractice.dll
+C:\Users\jslucas\source\repos\finalexampractice\obj\Debug\netcoreapp3.1\finalexampractice.pdb
